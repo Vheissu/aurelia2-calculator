@@ -1,4 +1,4 @@
-# aurelia2-calculator
+# Aurelia2 Calculator
 
 A functional calculator built using Aurelia 2, Typescript and Tailwind. Feel free to use this to learn Aurelia or get ideas for your own apps.
 
